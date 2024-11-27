@@ -76,10 +76,10 @@ I am driven by the goal of creating impactful applications and solving real-worl
 ## 🌐 **Connect with Me**  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/prajakta-shinde">
+  <a href="https://www.linkedin.com/in/prajakta-bansod/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <a href="mailto:prajaktashinde.mern@gmail.com">
+  <a href="mailto:prajaktab777@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>  
